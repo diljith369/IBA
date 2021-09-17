@@ -1,0 +1,16 @@
+D:\Dev369\IBA\IBA\bin\Debug\IBA.exe.config
+D:\Dev369\IBA\IBA\bin\Debug\IBA.exe
+D:\Dev369\IBA\IBA\bin\Debug\IBA.pdb
+D:\Dev369\IBA\IBA\obj\Debug\IBA.IBAAdminForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.Properties.Resources.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.csproj.GenerateResource.cache
+D:\Dev369\IBA\IBA\obj\Debug\IBA.csproj.CoreCompileInputs.cache
+D:\Dev369\IBA\IBA\obj\Debug\IBA.exe
+D:\Dev369\IBA\IBA\obj\Debug\IBA.pdb
+D:\Dev369\IBA\IBA\obj\Debug\IBA.IBAUserForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.LoginForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.AddUserForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.UserSettingsForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.csproj.AssemblyReference.cache
+D:\Dev369\IBA\IBA\obj\Debug\IBA.DeleteUserForm.resources
+D:\Dev369\IBA\IBA\obj\Debug\IBA.ViewAllForm.resources
